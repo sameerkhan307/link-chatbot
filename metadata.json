@@ -1,0 +1,7 @@
+{
+  "name": "UrlGenie",
+  "description": "A Dialogflow-like interface that allows users to input a specific URL and chat contextually about its content using Google Gemini with Search Grounding.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
